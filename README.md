@@ -9,3 +9,9 @@ I do not want to obfuscate the fact that I am relying to a large extend on other
 The first results look promising (see res.png)
 
 For this project I modified https://github.com/brade31919/SRGAN-tensorflow slightly to get 2x upsampling because the MRI-scans are too small for 4x upsampling (which was used in the original project.
+
+![alt text](https://github.com/pocafavilla/brainsgan/blob/master/res.png)
+
+
+
+
