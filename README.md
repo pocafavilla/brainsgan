@@ -1,5 +1,5 @@
 # brainsgan
-Trying to use GANs to increase the resolution of MRI scans for my internship at Juelich research center
+Using GANs to increase the resolution of MRI scans for my internship at Juelich research center
 
 This is an experiment that I started mostly out of curiosity and because I thought the application was much needed. 
 (Apart from MRIs it can probably be used as well to reduce dangerous Xray radiation & speed up the measuring process)
